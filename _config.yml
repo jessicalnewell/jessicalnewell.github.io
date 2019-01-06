@@ -1,11 +1,11 @@
 # Site settings
-author: Jessica Newell
-title: 
+author: Jessica 
+title: Down the rabbit hole...
 header-img: img/home-bg.png
 email: j.lynnewell@gmail.com
-copyright_name: Jessica Newell
+copyright_name: Jessica 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey to mastering data science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jessicalnewell
