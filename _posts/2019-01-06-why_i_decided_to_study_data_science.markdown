@@ -29,8 +29,5 @@ Of course, I have my fears and doubts but as I make my way through this course a
 
 It's not the typical background for a mathematically-based discipline but I'm not letting that stop me. What I want to put out there is way too important.
 
-And apparently, my artistically-oriented brain just might come in handy.
+[And apparently, my artistically-oriented brain just might come in handy](https://youtu.be/qrhRfPY4F4w).
 
-```
-https://youtu.be/qrhRfPY4F4w
-```
