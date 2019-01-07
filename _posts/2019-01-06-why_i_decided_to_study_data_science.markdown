@@ -5,7 +5,7 @@ date:       2019-01-06 13:53:51 -0500
 permalink:  why_i_decided_to_study_data_science
 ---
 
-There are a lot of peripheral reasons why I embarked on this program. It would be a long list of all the ways I want to and should prove myself to others, get that in demand AI job and make a lot of money. But those reasons were just never enough for me. I have very high expectations ;)
+There are a lot of peripheral reasons why I embarked on this program. It would be a long list of all the ways I want to and should prove myself to others, get that in demand AI job and make a lot of money. But those reasons were just never enough for me. I have very high standards ;)
 
 I'm actually doing this on purpose. There's a real, thoughtfully-considered reason I signed up for this course. It was not on a whim.
 
