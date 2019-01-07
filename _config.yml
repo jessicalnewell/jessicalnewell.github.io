@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: j.lynnewell@gmail.com
 copyright_name: Jessica Newell
 description: > # this means to ignore newlines until "baseurl:"
-  Just another step on this journey.
+  My Odyssey  in Studying Data Science 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jessicalnewell
