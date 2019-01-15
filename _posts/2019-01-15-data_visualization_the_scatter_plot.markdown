@@ -5,7 +5,7 @@ date:       2019-01-15 16:55:59 -0500
 permalink:  data_visualization_the_scatter_plot
 ---
 
-As I delve into this world of data science I am finding more and more that my sweet spot is in data visualization. It's really just a fancy way of explaining the way you are able to communicate the story the data is telling you. The key is that to do this effectively it has to be visual. 
+As I delve into this world of data science I am finding more and more that my sweet spot is in data visualization. It's really just a fancy way of explaining how to communicate the story the data is telling you. The key is that to do this effectively it has to be visual. 
 
 And making it visual is not about making it look pretty. Far from it, it's about clarity. 
 
@@ -30,6 +30,8 @@ Here's the correlation: as sugar consumption goes up, so does the number of deca
 The dots on the chart represent each point of data and the line is called the 'line of best fit' or the 'trend line'. According to [MathIsFun.com](https://www.mathsisfun.com/data/scatter-xy-plots.html) the trend line is a "line as close as possible to all points, and as many points above the line as below".
 
 Because the line is a diagonal going up from left to right we would call this a 'positive' correlation. As the value of one variable increases so does the other. If one variable went up and the other went down we would consider that a 'negative' correlation.
+
+Now while we can see that there is a correlation here, we must remember one of the basic rules of statistics. Correlation does not equal causation. So we can not infer that eating lots of sugar will cause cavities by this chart alone. But it does give us a clue!
 
 This chart above is a good example of the pros of a scatter plot and when it is best used to visualize data. Let's look at a [poor example from visual.ly](https://visual.ly/blog/the-pros-and-cons-of-scatterplots/):
 
