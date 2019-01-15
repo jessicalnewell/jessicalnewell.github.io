@@ -25,7 +25,7 @@ Here are the basics. This is a scatterplot.  It shows the correlation between th
 1. The average number of decayed teeth per person in different countries
 2. The average sugar consumption (grams per person per day)
 
-Here's the correlation: as sugar consumption goes up, so does the number of decayed teeth
+Here's the correlation: as sugar consumption goes up, so does the number of decayed teeth.
 
 The dots on the chart represent each point of data and the line is called the 'line of best fit' or the 'trend line'. According to [MathIsFun.com](https://www.mathsisfun.com/data/scatter-xy-plots.html) the trend line is a "line as close as possible to all points, and as many points above the line as below".
 
