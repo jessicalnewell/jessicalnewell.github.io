@@ -29,7 +29,7 @@ Here's the correlation: as sugar consumption goes up, so does the number of deca
 
 The dots on the chart represent each point of data and the line is called the 'line of best fit' or the 'trend line'. According to [MathIsFun.com](https://www.mathsisfun.com/data/scatter-xy-plots.html) the trend line is a "line as close as possible to all points, and as many points above the line as below".
 
-Because the line is a diagonal going up from left to right we would call this a 'positive' correlation. As the value of one variable increases so does the other. Vice versa would be considered a 'negative' correlation.
+Because the line is a diagonal going up from left to right we would call this a 'positive' correlation. As the value of one variable increases so does the other. If one variable went up and the other went down we would consider that a 'negative' correlation.
 
 This chart above is a good example of the pros of a scatter plot and when it is best used to visualize data. Let's look at a [poor example from visual.ly](https://visual.ly/blog/the-pros-and-cons-of-scatterplots/):
 
