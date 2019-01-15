@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Visualization: The Scatter Plot"
-date:       2019-01-15 21:55:58 +0000
+date:       2019-01-15 16:55:59 -0500
 permalink:  data_visualization_the_scatter_plot
 ---
 
@@ -13,9 +13,8 @@ The ability to take a complex data set and break it down into something that not
 
 And here's a scary fact:
 
-```
-<a href="http://www.pewresearch.org/fact-tank/2015/09/16/the-art-and-science-of-the-scatterplot/ft_15-09-11_scatterplot/"><img width="420" height="544" src="http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?w=420" class="attachment-large size-large" alt="" srcset="http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png 420w, http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?resize=232,300 232w, http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?resize=160,207 160w, http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?resize=313,405 313w, http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?resize=200,259 200w, http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?resize=260,337 260w, http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png?resize=310,402 310w" sizes="(max-width: 420px) 100vw, 420px" /></a>
-```
+![](http://www.pewresearch.org/wp-content/uploads/2015/09/FT_15.09.11_scatterplot.png)
+[Credit: Pew Research](http://www.pewresearch.org/fact-tank/2015/09/16/the-art-and-science-of-the-scatterplot/ft_15-09-11_scatterplot/)
 
 Which means data scientists have their work cut out for them.
 
