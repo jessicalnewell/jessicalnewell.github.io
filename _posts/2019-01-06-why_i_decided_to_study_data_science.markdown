@@ -6,7 +6,7 @@ permalink:  why_i_decided_to_study_data_science
 ---
 
 
-Simply put, I have a concept for personal development application that will require a thorough understanding of how to work with data to provide feedback on improving performance in life-supporting habits, thought patterns, and decisions-making.
+Simply put, I have a concept for personal development application that will require a thorough understanding of how to work with data to provide feedback on improving performance in life-supporting habits, thought patterns, and decision-making.
 
 As someone who daily works hard to overcome life's hurdles so that I can  thrive and make a positive impact on others, I have a strong interest in understanding why we do the things we do, make the decisions we make, and how we can all do better. 
 
