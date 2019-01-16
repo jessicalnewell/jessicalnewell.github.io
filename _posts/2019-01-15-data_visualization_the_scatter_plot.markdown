@@ -20,7 +20,7 @@ Which means data scientists have their work cut out for them.
 
 (Actually, it means, we need to raise the bar for basic data literacy, but I digress)
 
-Here are the basics. This is a scatterplot.  It shows the correlation between the two variables: 
+Here are the basics: This is a scatterplot.  It shows the correlation between the two variables: 
 
 1. The average number of decayed teeth per person in different countries
 2. The average sugar consumption (grams per person per day)
