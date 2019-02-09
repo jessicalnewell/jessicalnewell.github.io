@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Feature Selection: King County House Sales"
-date:       2019-02-09 20:56:49 +0000
+date:       2019-02-09 15:56:49 -0500
 permalink:  feature_selection_king_county_house_sales
 ---
 
@@ -12,24 +12,7 @@ In this post, I'm going to share the process by which I selected the features fo
 
 First, I created a table of all of the features in the given data set and what my expectation was for them predicting sale price:
 
-**Variable               Type (number,category)            Segment (building, space, location)           Expectation**
-Sqft_living               Numerical                                         Building                                                                      High
-Waterfront              Categorical                                       Location                                                                    High
-Sqft_living15         Numerical                                          Building                                                                      High
-Bedrooms               Numerical                                         Building                                                                      High
-Sqft_lot                    Numerical                                         Space                                                                         High
-Sqft_lot15              Numerical                                         Space                                                                         High
-Zipcode                   Numerical                                         Location                                                                    High
-Bathrooms             Numerical                                         Building                                                                      High
-Grade                       Numerical                                         Building                                                                      High
-Yr_built                    Numerical                                          Building                                                                     High
-Floors                      Numerical                                          Building                                                                     Med
-View                         Categorical                                       Space                                                                        Med
-Condition               Numerical                                          Building                                                                     Med
-Sqft_above           Numerical                                         Building                                                                      Med
-Yr_renovated       Numerical                                          Building                                                                     Med
-Lat                            Numerical                                         Location                                                                    Med
-Long                        Numerical                                          Location                                                                  Med
+![](https://imgur.com/a/C3F75P9)
 
 After cleaning the data I explored the variables that I had a high expectation of predicting price using histograms and box plots. Through this, I found that sqft_living, sqft_living15, waterfront & view have a high correlation with price.
 
