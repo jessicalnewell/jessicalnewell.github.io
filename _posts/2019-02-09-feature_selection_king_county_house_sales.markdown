@@ -12,21 +12,19 @@ In this post, I'm going to share the process by which I selected the features fo
 
 First, I created a table of all of the features in the given data set and what my expectation was for them predicting sale price:
 
-```
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/C3F75P9"><a href="//imgur.com/C3F75P9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-```
+[](https://imgur.com/a/C3F75P9/image.jpg)
 
 After cleaning the data I explored the variables that I had a high expectation of predicting price using histograms and box plots. Through this, I found that sqft_living, sqft_living15, waterfront & view have a high correlation with price.
 
 Then I did a correlation matrix heatmap to confirm a correlation between these variables and price:
-![](https://imgur.com/a/WlgCZPT)
+![](https://imgur.com/a/WlgCZPT/image.jpg)
 
 And finally scatter plots with those highly correlated variables:
 
-![](https://imgur.com/a/ac9AoQX)
+![](https://imgur.com/a/ac9AoQX/image.jpg)
 
 Once it came time for OLS regression between continuous dependent and independent variables I was looking for those that had higher r-squared values and low p-values. Here's what was returned after running the algorithm:
-![](https://imgur.com/a/fwwzaTh)
+![](https://imgur.com/a/fwwzaTh/image.jpg)
 
 While I did complete a log transformation on the target variable (price) I ended up sticking with the original data which had higher r-squared values.
 
@@ -36,7 +34,7 @@ Taking all this into account the following features had the highest r-squared va
 
 Bathrooms, sqft_living, grade, sqft_above, sqft_living15 & view.
 
-![](https://imgur.com/a/IVfPYXk)
+![](https://imgur.com/a/IVfPYXk/image.jpg)
 
 I chose bathrooms, sqft_living, grade and view for my presentation.
 
