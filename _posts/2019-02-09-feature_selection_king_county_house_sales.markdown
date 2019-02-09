@@ -12,7 +12,9 @@ In this post, I'm going to share the process by which I selected the features fo
 
 First, I created a table of all of the features in the given data set and what my expectation was for them predicting sale price:
 
-![](https://imgur.com/a/C3F75P9)
+```
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/C3F75P9"><a href="//imgur.com/C3F75P9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+```
 
 After cleaning the data I explored the variables that I had a high expectation of predicting price using histograms and box plots. Through this, I found that sqft_living, sqft_living15, waterfront & view have a high correlation with price.
 
