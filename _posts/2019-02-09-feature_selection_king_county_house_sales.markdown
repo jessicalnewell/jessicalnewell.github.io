@@ -18,7 +18,7 @@ First, I created a table of all of the features listed in the given data set and
 
 ![](https://httpsimage.com/v2/099b2c67-35c6-419f-bafb-e5e14804196b.png)
 
-After cleaning the data I explored the variables that I had a high expectation of predicting price using histograms and box plots. Through this, I found that sqft_living, sqft_living15, waterfront & view have a high correlation with price.
+After cleaning the data, but before creating the linear regression models for predictions, first I explored the data for correlations. I explored the variables that I thought had a high expectation of predicting price using histograms and box plots. Through this, I found that sqft_living, sqft_living15, waterfront & view have a high correlation with price.
 
 Then I did a correlation matrix heatmap to confirm a correlation between these variables and price:
 ![](https://i.ibb.co/txHzF84/Screen-Shot-2019-02-09-at-11-46-28-AM.png)
