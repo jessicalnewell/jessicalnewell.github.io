@@ -56,7 +56,7 @@ Well, not so fast. While this was a good exercise in practicing the mathematic m
 
 I would say no, the data set given is far too limited to be useful in predicting house sale prices. After all is said and done with this project, I am left to wonder whether bathrooms, square footage, grade, and the view would be the only factors I'd be interested tracking if I were a real estate agent.
 
-What about other features like the style of house (is it a craftsman or a colonial), the neighborhood, access to public transportation, or the school district. These are all features that'd I'd be interested in as a buyer, so I'm sure as an agent it would be helpful to see if any of these an numerous other qualitative factors would be useful in predicting the price.
+What about other features like the style of house (is it a craftsman or a boathouse?), the neighborhood, access to public transportation, or the school district. These are all features that'd I'd be interested in as a buyer, so I'm sure as an agent it would be helpful to see if any of these an numerous other qualitative factors would be useful in predicting the price.
 
 Zillow is a great example of a company that uses this type of modeling to create their "Zestimate" of home prices. They [created a video](https://www.zillow.com/zestimate/) to explain how they do this. 
 
