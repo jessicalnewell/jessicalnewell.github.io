@@ -6,11 +6,15 @@ permalink:  feature_selection_king_county_house_sales
 ---
 
 
-For the Module 1 Project, we studied the King County, Washington house sales data set. The objective was to find out which features, such as the number of bedrooms, whether it's a waterfront property or the square footage of the living space, were good predictors of what the sale price would be. We created our predictions using linear regression.
+Let's say we are a real estate agent in Seattle looking for an algorithm to predict the home prices.
+
+For the Module 1 Project, we studied a data set of King County, Washington house sales data. The objective was to find out which features, such as the number of bedrooms, whether it's a waterfront property or the square footage of the living space, were good predictors of what the sale price would be. 
+
+I created the predictions using linear regression.
 
 In this post, I'm going to share the process by which I selected the features for applying the model to. I based my process for feature selection on [this post](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python).
 
-First, I created a table of all of the features in the given data set and what my expectation was for them predicting sale price:
+First, I created a table of all of the features listed in the given data set and what my expectation was for them predicting sale price. 
 
 ![](https://httpsimage.com/v2/099b2c67-35c6-419f-bafb-e5e14804196b.png)
 
@@ -19,12 +23,20 @@ After cleaning the data I explored the variables that I had a high expectation o
 Then I did a correlation matrix heatmap to confirm a correlation between these variables and price:
 ![](https://i.ibb.co/txHzF84/Screen-Shot-2019-02-09-at-11-46-28-AM.png)
 
-And finally scatter plots with those highly correlated variables:
+As you can see here sqft_living, grade, sqft_above, sqft_living15 and bathrooms all had correlations that were .5 and higher.
+
+Finally I created a set of scatter plots with those highly correlated variables:
 
 ![](https://i.ibb.co/BcWZqvD/Screen-Shot-2019-02-09-at-11-49-08-AM.png)
 
-Once it came time for OLS regression between continuous dependent and independent variables I was looking for those that had higher r-squared values and low p-values. Here's what was returned after running the algorithm:
+All the features listed show strong positive correlations with price.
+
+Once it came time for OLS regression between continuous dependent and independent variables I was looking for those that had higher r-squared values and low p-values. R-squared is the coefficient of determination which means that it shows the baseline, or worst model. R-squared values reveal whether your model does better than that baseline. The higher the number the better the fit. P-values show the significance of that feature making a prediction, the lower the p-value the the greater the significance. 
+
+Here's what was returned after running the algorithm:
 ![](https://i.ibb.co/SBn43xh/Screen-Shot-2019-02-09-at-11-54-39-AM.png)
+
+Again this confirmed what the scatter plots showed above, all of these variables show r-squared at above 0.1 and p-values of 0.
 
 While I did complete a log transformation on the target variable (price) I ended up sticking with the original data which had higher r-squared values.
 
