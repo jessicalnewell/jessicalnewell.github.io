@@ -54,7 +54,7 @@ Done & done. Ready to pass it off to the bigwigs. Right?
 
 Well, not so fast. While this was a good exercise in practicing the mathematic modeling & programming to create the algorithm there's a huge missing piece here: is this data useful in real life?
 
-I would say no, the data set given is far too limited to be useful in predicting house sale prices. After all, is said and done with this project I am left to wonder whether bathrooms, square footage, grade, and the view would be the only factors I'd be interested tracking if I were a real estate agent.
+I would say no, the data set given is far too limited to be useful in predicting house sale prices. After all is said and done with this project, I am left to wonder whether bathrooms, square footage, grade, and the view would be the only factors I'd be interested tracking if I were a real estate agent.
 
 What about other features like the style of house (is it a craftsman or a colonial), the neighborhood, access to public transportation, or the school district. These are all features that'd I'd be interested in as a buyer, so I'm sure as an agent it would be helpful to see if any of these an numerous other qualitative factors would be useful in predicting the price.
 
