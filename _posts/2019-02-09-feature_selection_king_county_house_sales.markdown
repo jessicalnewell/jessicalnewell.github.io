@@ -23,7 +23,7 @@ After cleaning the data, but before creating the linear regression models for pr
 Then I did a correlation matrix heatmap to confirm a correlation between these variables and price:
 ![](https://i.ibb.co/txHzF84/Screen-Shot-2019-02-09-at-11-46-28-AM.png)
 
-As you can see here sqft_living, grade, sqft_above, sqft_living15 and bathrooms all had correlations that were .5 and higher.
+As you can see here sqft_living, grade, sqft_above, sqft_living15 and bathrooms all had correlations with price that were .5 and higher.
 
 Finally I created a set of scatter plots with those highly correlated variables:
 
