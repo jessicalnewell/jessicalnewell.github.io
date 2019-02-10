@@ -6,9 +6,9 @@ permalink:  feature_selection_king_county_house_sales
 ---
 
 
-Let's say we are a real estate agent in Seattle looking for an algorithm to predict the home prices.
+Let's say you are a real estate agent in Seattle looking for an algorithm to predict the home prices.
 
-For the Module 1 Project, we studied a data set of King County, Washington house sales data. The objective was to find out which features, such as the number of bedrooms, whether it's a waterfront property or the square footage of the living space, were good predictors of what the sale price would be. 
+For the Module 1 Project, I worked with a given data set of King County, Washington house sales. The objective was to find out which features, such as the number of bedrooms, whether it's a waterfront property or the square footage of the living space, were good predictors of what the sale price would be. 
 
 I created the predictions using linear regression.
 
